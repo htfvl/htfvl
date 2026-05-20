@@ -1,16 +1,14 @@
-## Hi there 👋
+# ─── ⚡ CORE_SYSTEM_OVERRIDE ⚡ ───
 
-<!--
-**htfvl/htfvl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF66&center=true&vCenter=true&width=500&lines=INITIALIZING+PROTOCOLS...;OFFENSIVE+SECURITY+RESEARCHER;BUG+BOUNTY+HUNTER+IN+TRAINING;PENETRATION+TESTER" alt="Typing SVG" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🖥️ ABOUT_ME / SYSTEM INFO
+```text
+[IDENTITY] : Cybersecurity Enthusiast & Pentester
+[STATUS]   : 11-Hour Daily Hardcore Training Routine Activated
+[GOAL]     : Reaching Elite Status & Mastering Offensive Security
+[FOCUS]    : Web Application Penetration Testing & OSINT
