@@ -12,6 +12,15 @@
 * **[STATUS]** : `Core Focus Shifting -> Aggressive Offensive Operations`
 * **[ROUTINE]** : `11-Hour Hardcore Deep Work Schedule`
 
+## 📡 CYBER INTEL & BROADCASTING
+
+* **[WRITEUPS]** : `All completed labs & challenges are fully documented`
+* **[YOUTUBE]** : `Video walkthroughs & live exploits covering all security platforms` -> [YouTube Channel](https://youtube.com/@ТВОЙ_КАНАЛ_ЕСЛИ_ЕСТЬ)
+* **[TELEGRAM]** : `Secure contact gate & main node` -> [@htfvl](https://t.me/htfvl)
+* **[INTEL_LOG]**: `My custom Telegram Channel (constantly updated with tech logs, OSINT & writeups as I progress)`
+
+> **[SYSTEM_NOTE]** : In my videos and text writeups, I don't just show the exploit — I break down the exact mechanics of how it works under the hood. Any platform, any vulnerability.
+
 ---
 
 ## 🧰 CYBER_WEAPONRY & SKILLS
@@ -60,3 +69,5 @@
 * `>_ Custom Exploit Development (Python / C++)`
 
 </details>
+
+---
