@@ -15,7 +15,7 @@
 ## 📡 CYBER INTEL & BROADCASTING
 
 * **[WRITEUPS]** : `All completed labs & challenges are fully documented`
-* **[YOUTUBE]** : `Video walkthroughs & live exploits covering all security platforms` -> [YouTube Channel](https://youtube.com/@ТВОЙ_КАНАЛ_ЕСЛИ_ЕСТЬ)
+* **[YOUTUBE]** : `Video walkthroughs & live exploits covering all security platforms` -> [YouTube Channel](https://youtube.com/@kuriyaaii
 * **[TELEGRAM]** : `Secure contact gate & main node` -> [@htfvl](https://t.me/htfvl)
 * **[INTEL_LOG]**: `My custom Telegram Channel (constantly updated with tech logs, OSINT & writeups as I progress)`
 
